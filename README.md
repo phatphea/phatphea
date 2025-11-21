@@ -29,6 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Microsoft_Office_Access_%282025-present%29.svg/1051px-Microsoft_Office_Access_%282025-present%29.svg.png" width="45" />
 </p>
+
 ---
 
 ### **Tools**
@@ -41,6 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" />
 </p>
+
+---
 
 ### Journey 
 
