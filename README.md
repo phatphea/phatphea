@@ -43,7 +43,7 @@
 </p>
 ---
 
-## 📊 Journey (GitHub Stats)
+### Journey 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=phatphea&show_icons=true&theme=react" width="48%" />
