@@ -41,4 +41,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" />
 </p>
+---
+
+## 📊 Journey (GitHub Stats)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=phatphea&show_icons=true&theme=react" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phatphea&layout=compact&theme=react" width="48%" />
+</p>
 
