@@ -25,9 +25,9 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original.svg" width="45" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/b/bc/MSSQL_SSMS_21_icon.png" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Office_Access_%282019–present%29.svg" width="45" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Microsoft_Office_Access_%282025-present%29.svg/1051px-Microsoft_Office_Access_%282025-present%29.svg.png" width="45" />
 </p>
 ---
 
