@@ -45,10 +45,15 @@
 
 ---
 
-### Journey 
+### Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phatphea&show_icons=true&theme=react"  width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phatphea&layout=compact&theme=react" width="48%" />
+  <a href="https://github.com/phatphea">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=phatphea&show_icons=true&theme=react" />
+  </a>
+  <a href="https://github.com/phatphea">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phatphea&layout=compact&theme=react" />
+  </a>
 </p>
+
 
