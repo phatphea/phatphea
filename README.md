@@ -51,7 +51,7 @@
 
 <p align="center">
   <a href="https://github.com/phatphea">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=phatphea&show_icons=true&theme=react" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=phatphea&show_icons=true&theme=react&cache_seconds=60" />
   </a>
   <a href="https://github.com/phatphea">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phatphea&layout=compact&theme=react" />
